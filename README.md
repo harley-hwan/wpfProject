@@ -1,2 +1,0 @@
-# wpfProject
-WPF Programming
