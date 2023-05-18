@@ -6,11 +6,9 @@ C:\Users\user\Documents\GitHub\wpfProject\wpfProject\wpfProject\bin\Debug\net5.0
 C:\Users\user\Documents\GitHub\wpfProject\wpfProject\wpfProject\bin\Debug\net5.0-windows\ref\wpfProject.dll
 C:\Users\user\Documents\GitHub\wpfProject\wpfProject\wpfProject\bin\Debug\net5.0-windows\wpfProject.pdb
 C:\Users\user\Documents\GitHub\wpfProject\wpfProject\wpfProject\obj\Debug\net5.0-windows\wpfProject.csproj.AssemblyReference.cache
-C:\Users\user\Documents\GitHub\wpfProject\wpfProject\wpfProject\obj\Debug\net5.0-windows\MainWindow.g.cs
 C:\Users\user\Documents\GitHub\wpfProject\wpfProject\wpfProject\obj\Debug\net5.0-windows\App.g.cs
 C:\Users\user\Documents\GitHub\wpfProject\wpfProject\wpfProject\obj\Debug\net5.0-windows\wpfProject_MarkupCompile.cache
 C:\Users\user\Documents\GitHub\wpfProject\wpfProject\wpfProject\obj\Debug\net5.0-windows\wpfProject_MarkupCompile.lref
-C:\Users\user\Documents\GitHub\wpfProject\wpfProject\wpfProject\obj\Debug\net5.0-windows\MainWindow.baml
 C:\Users\user\Documents\GitHub\wpfProject\wpfProject\wpfProject\obj\Debug\net5.0-windows\wpfProject.g.resources
 C:\Users\user\Documents\GitHub\wpfProject\wpfProject\wpfProject\obj\Debug\net5.0-windows\wpfProject.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\user\Documents\GitHub\wpfProject\wpfProject\wpfProject\obj\Debug\net5.0-windows\wpfProject.AssemblyInfoInputs.cache
@@ -22,3 +20,5 @@ C:\Users\user\Documents\GitHub\wpfProject\wpfProject\wpfProject\obj\Debug\net5.0
 C:\Users\user\Documents\GitHub\wpfProject\wpfProject\wpfProject\obj\Debug\net5.0-windows\wpfProject.genruntimeconfig.cache
 C:\Users\user\Documents\GitHub\wpfProject\wpfProject\wpfProject\obj\Debug\net5.0-windows\wpfProject.Properties.Resources.resources
 C:\Users\user\Documents\GitHub\wpfProject\wpfProject\wpfProject\obj\Debug\net5.0-windows\wpfProject.csproj.GenerateResource.cache
+C:\Users\user\Documents\GitHub\wpfProject\wpfProject\wpfProject\obj\Debug\net5.0-windows\View\MainWindow.g.cs
+C:\Users\user\Documents\GitHub\wpfProject\wpfProject\wpfProject\obj\Debug\net5.0-windows\View\MainWindow.baml
